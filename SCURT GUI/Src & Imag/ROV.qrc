@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>rsz_224098948_1455832224515679_1680983260_n.gif</file>
+    <file>imageedit_5_2794873025.gif</file>
+    <file>rsz_124098948_1455832224515679_1680983260_n.gif</file>
+    <file>150603426047815.gif</file>
+    <file>rsz_14463241_306133136427914_851877469981133433_n.jpg</file>
+    <file>controller-1827840_640.png</file>
+    <file>rsz_play-512.png</file>
+  </qresource>
+  <qresource/>
+</RCC>
